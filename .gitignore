@@ -1,0 +1,43 @@
+.idea/
+.idea/**
+__pycache__
+*.pyc
+*.zip
+build
+cmake-build-debug
+spark-warehouse
+scid_log
+correct_log
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod~]
+*.so
+*.egg
+*.egg-info
+dist
+build
+venv
+
+# Bakfile:
+*~
+
+# My configurations:
+db.ini
+deploy_key_rsa
+*.mp3
+#*.txt
+#*.pkl
+py_log/
+**/py_log/**
+**/py_log
+**.log**
+initdata/
+
+# vscode
+.vscode
+dist
+*.o

@@ -1,0 +1,10 @@
+//
+// Created by hy on 2019/11/7.
+//
+
+#ifndef ANTIWORD_0_37_CONFIG_H
+#define ANTIWORD_0_37_CONFIG_H
+
+#endif //ANTIWORD_0_37_CONFIG_H
+
+#cmakedefine DB	NDEBUG
