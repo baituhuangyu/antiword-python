@@ -6,6 +6,8 @@ set(CMAKE_BUILD_TYPE  debug)
 #set(DB  DEBUG)
 
 include_directories(.)
+
+# python lib for c header
 include_directories(/Users/hy/miniconda2/envs/py3/include/python3.6m/)
 #include_directories(NW-only)
 #include_directories(Unix-only)
